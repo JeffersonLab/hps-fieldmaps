@@ -1,6 +1,6 @@
 # hps-fieldmaps
 
-These are the fieldmaps for both SLIC, or hps-sim, ldmx-sw, detector modeles and for 
+These are the fieldmaps for both SLIC (or hps-sim) detector modeles and for 
 hps-java reconstruction. They are created from the text files stored in Confluence in the
 [Beamline and Magnet](https://confluence.slac.stanford.edu/display/hpsg/Beamline+and+Magnet) 
 page, which also shows the procedure for producing the corrected fieldmaps.
@@ -17,6 +17,8 @@ Index of available fields maps:
 | 125acm2_3kg_corrected_unfolded_scaled_0.7992       |    1.056 GeV | Engineering 2015 | 
 | 209acm2_5kg_corrected_unfolded_scaled__1.04545     |    2.306 GeV | Physics Run 2016 |
 | 418acm2_10kg_corrected_unfolded_scaled_1.0319      |    4.55 GeV  | Physics Run 2019 |
+| 334acm3_8kg_corrected_unfolded_scaled_1.07326      |    3.742 GeV | Physics Run 2021 |
+
 
 | *filename*                                         | *Beam energy*| *Proposal Detector* |
 |---------------------------------------------------:|-------------:|--------------------:|
