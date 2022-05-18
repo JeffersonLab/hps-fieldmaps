@@ -12,21 +12,22 @@ compressed with the command "tar czf name.tar.gz name.dat"
 
 Index of available fields maps:
 
-| *filename*                                         | *Beam energy*|     *run period* |
-|---------------------------------------------------:|-------------:|-----------------:|
-| 125acm2_3kg_corrected_unfolded_scaled_0.7992       |    1.056 GeV | Engineering 2015 | 
-| 209acm2_5kg_corrected_unfolded_scaled__1.04545     |    2.306 GeV | Physics Run 2016 |
-| 418acm2_10kg_corrected_unfolded_scaled_1.0319      |    4.55 GeV  | Physics Run 2019 |
-| 334acm3_8kg_corrected_unfolded_scaled_1.07326      |    3.742 GeV | Physics Run 2021 |
+|                                     *filename* | *Beam energy* |     *run period* |
+|-----------------------------------------------:|--------------:|-----------------:|
+|   125acm2_3kg_corrected_unfolded_scaled_0.7992 |     1.056 GeV | Engineering 2015 | 
+| 209acm2_5kg_corrected_unfolded_scaled__1.04545 |     2.306 GeV | Physics Run 2016 |
+|  418acm2_10kg_corrected_unfolded_scaled_1.0319 |      4.55 GeV | Physics Run 2019 |
+|  334acm3_8kg_corrected_unfolded_scaled_1.07326 |     3.742 GeV | Physics Run 2021 |
+ |  166acm2_4kg_corrected_unfolded_scaled_1.10179 |      1.92 GeV | Physics Run 2021 |   
 
 
-| *filename*                                         | *Beam energy*| *Proposal Detector* |
-|---------------------------------------------------:|-------------:|--------------------:|
-| 125acm2_3kg_corrected_unfolded_scaled_0.7992       |    1.05 GeV  | Proposal 2017 1pt05 | 
-| 166acm2_4kg_corrected_unfolded_scaled_1.090896     |    1.92 GeV  | Proposal 2021 1pt9
-| 209acm2_5kg_corrected_unfolded_scaled__1.04545     |    2.3 GeV   | Proposal 2017 2pt3  |
-| 418acm2_10kg_corrected_unfolded_scaled_0.9979      |    4.4 GeV   | Proposal 2017 4pt4  |
-| 334acm3_8kg_corrected_unfolded_scaled_1.0508       |    3.7 GeV   | Proposal 2021 3pt7  |
-| 627acm2_13kg_corrected_unfolded_scaled_1.1538      |    6.6 GeV   | Proposal 2017 6pt6  |
+|                                     *filename* | *Beam energy* | *Proposal Detector* |
+|-----------------------------------------------:|--------------:|--------------------:|
+|   125acm2_3kg_corrected_unfolded_scaled_0.7992 |      1.05 GeV | Proposal 2017 1pt05 | 
+| 166acm2_4kg_corrected_unfolded_scaled_1.090896 |      1.92 GeV |  Proposal 2021 1pt9 |
+| 209acm2_5kg_corrected_unfolded_scaled__1.04545 |       2.3 GeV |  Proposal 2017 2pt3 |
+|  418acm2_10kg_corrected_unfolded_scaled_0.9979 |       4.4 GeV |  Proposal 2017 4pt4 |
+|   334acm3_8kg_corrected_unfolded_scaled_1.0508 |       3.7 GeV |  Proposal 2021 3pt7 |
+|  627acm2_13kg_corrected_unfolded_scaled_1.1538 |       6.6 GeV |  Proposal 2017 6pt6 |
 
 
