@@ -5,10 +5,15 @@ hps-java reconstruction. They are created from the text files stored in Confluen
 [Beamline and Magnet](https://confluence.slac.stanford.edu/display/hpsg/Beamline+and+Magnet) 
 page, which also shows the procedure for producing the corrected fieldmaps.
 The map name should be:  
-\<current\>acm2-\<original field strenght\>-corrected-unfolded-scaled-\<scale factor\>.dat
+<code>
+<current-density>acm2-<original field strenght>-corrected-unfolded-scaled-<scale factor>.dat
+</code>
 
-However, one can observe that the "current" number is _very_ approximate. The field files will be
+However, one can observe that the "current-density" number is _very_ approximate. The field files will be
 compressed with the command "tar czf name.tar.gz name.dat"
+
+For details on how to produce new fieldmaps see: 
+[Magnetic_Field_Calculations.ipynb](https://github.com/JeffersonLab/hps-fieldmaps/blob/master/Magnetic_Field_Calculations.ipynb)
 
 Index of available fields maps:
 
